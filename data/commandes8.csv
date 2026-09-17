@@ -1,0 +1,501 @@
+numCommande;nomClient;numTelClient;mailClient;adresseClient;codePostalClient;villeClient;dateCommande;datePaiement;dateRealisation;nomDestinataire;numTelDestinataire;adresseDestinataire;codePostalDestinataire;villeDestinataire;dateLivraisonEffective
+1;Deschamps;"0696182788";deschamps@icloud.com;35, Rue de la Solidarité;69450;Saint-Cyr-au-Mont-d'Or;01/12/2020;11/12/2020;17/12/2020;Martinez;"0676324532";21, Rue du Marché;69960;Corbas;18/12/2020
+2;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;01/12/2020;15/12/2020;18/12/2020;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;23/12/2020
+3;Mercier;"0779581408";mercier@hotmail.com;19, Boulevard de la Paix;69130;Écully;02/12/2020;03/12/2020;10/12/2020;Mottet;"0672745223";20, Rue de la Solidarité;69160;Tassin-la-Demi-Lune;15/12/2020
+4;Fournier;"0732561177";fournier@orange.fr;34, Avenue de Wagram;69360;Solaize;02/12/2020;10/12/2020;22/12/2020;Leblanc;"0711308496";50, Avenue du Général Leclerc;69390;Vernaison;28/12/2020
+5;Restaurant Jardin des Délices;"0716141429";jardin_des_délices@protonmail.com;48, Rue Saint-Yves;69370;Saint-Didier-au-Mont-d'Or;02/12/2020;15/12/2020;29/12/2020;;"";;;;
+6;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;03/12/2020;11/12/2020;21/12/2020;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;23/12/2020
+7;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;07/12/2020;08/12/2020;10/12/2020;Boyer;"0675016227";9, Rue des Moineaux;69300;Caluire-et-Cuire;15/12/2020
+8;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;07/12/2020;11/12/2020;18/12/2020;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;18/12/2020
+9;Blanchard;"0668920585";blanchard@gmail.com;37, Rue des Fleurs;69760;Limonest;08/12/2020;08/12/2020;11/12/2020;Meunier;"0661308877";22, Rue des Jardins;69100;Villeurbanne;14/12/2020
+10;Joly;"0644846114";joly@protonmail.com;14, Avenue de Wagram;69580;Sathonay-Village;08/12/2020;14/12/2020;15/12/2020;Joly;"0644846114";14, Avenue de Wagram;69580;Sathonay-Village;17/12/2020
+11;Bouvier;"0673496436";bouvier@sfr.fr;40, Boulevard de la République;69003;Lyon 3eme;09/12/2020;14/12/2020;29/12/2020;Caron;"0736175261";43, Rue Saint-Henri;69160;Tassin-la-Demi-Lune;29/12/2020
+12;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;09/12/2020;22/12/2020;23/12/2020;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/12/2020
+13;Henry;"0688084294";henry@hotmail.com;39, Avenue du Général Leclerc;69450;Saint-Cyr-au-Mont-d'Or;10/12/2020;15/12/2020;30/12/2020;Henry;"0688084294";39, Avenue du Général Leclerc;69450;Saint-Cyr-au-Mont-d'Or;05/01/2021
+14;Guillemette;"0650129632";guillemette@yahoo.com;7, Boulevard des Fusillés;69960;Corbas;11/12/2020;14/12/2020;24/12/2020;Michel;"0622833179";3, Boulevard des Bretons;69800;Saint-Priest;29/12/2020
+15;Descamps;"0766585806";descamps@free.fr;27, Boulevard des Allobroges;69300;Caluire-et-Cuire;11/12/2020;24/12/2020;29/12/2020;;"";;;;
+16;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;14/12/2020;16/12/2020;22/12/2020;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;22/12/2020
+17;Laurent;"0795980616";laurent@hotmail.com;32, Rue Sainte-Catherine;69004;Lyon 4eme;14/12/2020;24/12/2020;06/01/2021;Mercier;"0779581408";19, Boulevard de la Paix;69130;Écully;06/01/2021
+18;Restaurant Comptoir du Terroir;"0616248133";comptoir_du_terroir@protonmail.com;44, Rue Saint-Michel;69340;Francheville;14/12/2020;28/12/2020;30/12/2020;;"";;;;
+19;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;14/12/2020;29/12/2020;07/01/2021;Clerc;"0625973429";13, Rue Saint-Victor;69780;Mions;12/01/2021
+20;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;15/12/2020;15/12/2020;16/12/2020;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;18/12/2020
+21;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;15/12/2020;18/12/2020;29/12/2020;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;31/12/2020
+22;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;15/12/2020;24/12/2020;29/12/2020;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/12/2020
+23;Robert;"0774537467";robert@yahoo.com;21, Rue des Bois;69730;Genay;15/12/2020;24/12/2020;31/12/2020;Vallée;"0620818268";38, Rue des Instituteurs;69360;Solaize;06/01/2021
+24;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;16/12/2020;29/12/2020;06/01/2021;Olivier;"0652790453";50, Rue des Colibris;69730;Genay;11/01/2021
+25;Brun;"0612871619";brun@free.fr;50, Rue du Puits;69350;La Mulatière;16/12/2020;30/12/2020;04/01/2021;Brun;"0612871619";50, Rue du Puits;69350;La Mulatière;06/01/2021
+26;Garin;"0633721410";garin@protonmail.com;1, Rue du Calvaire;69380;Lissieu;17/12/2020;21/12/2020;05/01/2021;Garin;"0633721410";1, Rue du Calvaire;69380;Lissieu;05/01/2021
+27;Barbot;"0693879448";barbot@gmail.com;43, Avenue de Lowendal;69009;Lyon 9eme;17/12/2020;30/12/2020;14/01/2021;Barbot;"0693879448";43, Avenue de Lowendal;69009;Lyon 9eme;14/01/2021
+28;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;18/12/2020;22/12/2020;29/12/2020;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;30/12/2020
+29;Descamps;"0766585806";descamps@free.fr;27, Boulevard des Allobroges;69300;Caluire-et-Cuire;18/12/2020;24/12/2020;05/01/2021;Descamps;"0766585806";27, Boulevard des Allobroges;69300;Caluire-et-Cuire;05/01/2021
+30;Goutte;"0679991674";goutte@protonmail.com;6, Avenue du Président Kennedy;69360;Solaize;18/12/2020;30/12/2020;12/01/2021;;"";;;;
+31;Aubry;"0755210517";aubry@orange.fr;7, Rue de la Justice;69310;Oullins-Pierre-Bénite;21/12/2020;24/12/2020;08/01/2021;Aubry;"0755210517";7, Rue de la Justice;69310;Oullins-Pierre-Bénite;13/01/2021
+32;Dufresne;"0641178956";dufresne@orange.fr;29, Rue de la Révolution;69002;Lyon 2eme;22/12/2020;24/12/2020;06/01/2021;Clerc;"0625973429";13, Rue Saint-Victor;69780;Mions;07/01/2021
+33;Gros;"0730578978";gros@outlook.com;46, Boulevard des Gaulois;69160;Tassin-la-Demi-Lune;22/12/2020;24/12/2020;06/01/2021;Leblanc;"0711308496";50, Avenue du Général Leclerc;69390;Vernaison;08/01/2021
+34;Rousseau;"0662474575";rousseau@sfr.fr;2, Rue Saint-Louis;69370;Saint-Didier-au-Mont-d'Or;22/12/2020;06/01/2021;07/01/2021;Delarue;"0651458072";3, Rue des Métiers;69320;Feyzin;08/01/2021
+35;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;23/12/2020;31/12/2020;15/01/2021;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;15/01/2021
+36;Benoit;"0732532085";benoit@protonmail.com;25, Rue du Progrès;69500;Bron;24/12/2020;28/12/2020;29/12/2020;Descamps;"0766585806";27, Boulevard des Allobroges;69300;Caluire-et-Cuire;29/12/2020
+37;Caron;"0736175261";caron@protonmail.com;43, Rue Saint-Henri;69160;Tassin-la-Demi-Lune;24/12/2020;31/12/2020;15/01/2021;Thibault;"0736092438";44, Boulevard de la Paix;69003;Lyon 3eme;20/01/2021
+38;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;28/12/2020;11/01/2021;14/01/2021;;"";;;;
+39;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;29/12/2020;30/12/2020;31/12/2020;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;31/12/2020
+40;Renault;"0785024707";renault@protonmail.com;34, Avenue de Dijon;69580;Sathonay-Village;29/12/2020;31/12/2020;07/01/2021;Renault;"0785024707";34, Avenue de Dijon;69580;Sathonay-Village;11/01/2021
+41;Gilbert;"0723974406";gilbert@sfr.fr;34, Rue du Commerce;69500;Bron;30/12/2020;30/12/2020;11/01/2021;Guerin;"0756352637";15, Rue de la Solidarité;69001;Lyon 1er;11/01/2021
+42;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;30/12/2020;07/01/2021;08/01/2021;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;13/01/2021
+43;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;31/12/2020;05/01/2021;08/01/2021;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;11/01/2021
+44;Gautier;"0687778853";gautier@icloud.com;3, Rue de l'Égalité;69230;Saint-Genis-Laval;31/12/2020;14/01/2021;15/01/2021;Gautier;"0687778853";3, Rue de l'Égalité;69230;Saint-Genis-Laval;18/01/2021
+45;Deleuze;"0637130330";deleuze@outlook.com;12, Rue Saint-Georges;69360;Solaize;04/01/2021;13/01/2021;14/01/2021;Renaud;"0658743912";37, Rue de la Convention;69570;Dardilly;14/01/2021
+46;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;04/01/2021;13/01/2021;18/01/2021;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;19/01/2021
+47;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;04/01/2021;15/01/2021;22/01/2021;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;26/01/2021
+48;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;05/01/2021;05/01/2021;07/01/2021;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;07/01/2021
+49;Meunier;"0661308877";meunier@outlook.com;22, Rue des Jardins;69100;Villeurbanne;07/01/2021;21/01/2021;29/01/2021;Meunier;"0661308877";22, Rue des Jardins;69100;Villeurbanne;29/01/2021
+50;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;11/01/2021;18/01/2021;20/01/2021;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;20/01/2021
+51;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;11/01/2021;20/01/2021;29/01/2021;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;29/01/2021
+52;Delarue;"0651458072";delarue@protonmail.com;3, Rue des Métiers;69320;Feyzin;12/01/2021;15/01/2021;28/01/2021;Boutin;"0641072522";13, Rue des Hirondelles;69004;Lyon 4eme;29/01/2021
+53;Marchand;"0766682828";marchand@outlook.com;6, Rue Saint-François;69004;Lyon 4eme;13/01/2021;19/01/2021;27/01/2021;Marchand;"0766682828";6, Rue Saint-François;69004;Lyon 4eme;29/01/2021
+54;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;14/01/2021;19/01/2021;29/01/2021;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;29/01/2021
+55;Boyer;"0675016227";boyer@icloud.com;9, Rue des Moineaux;69300;Caluire-et-Cuire;14/01/2021;20/01/2021;28/01/2021;Mallet;"0764950337";49, Avenue de la Motte-Picquet;69200;Vénissieux;29/01/2021
+56;Roux;"0650504324";roux@protonmail.com;11, Avenue de Paris;69730;Genay;14/01/2021;20/01/2021;29/01/2021;Roux;"0650504324";11, Avenue de Paris;69730;Genay;29/01/2021
+57;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;14/01/2021;26/01/2021;27/01/2021;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;29/01/2021
+58;Vallée;"0620818268";vallée@protonmail.com;38, Rue des Instituteurs;69360;Solaize;14/01/2021;26/01/2021;28/01/2021;Vallée;"0620818268";38, Rue des Instituteurs;69360;Solaize;29/01/2021
+59;Guichard;"0773471827";guichard@bbox.fr;17, Boulevard Gambetta;69500;Bron;14/01/2021;26/01/2021;29/01/2021;Henry;"0688084294";39, Avenue du Général Leclerc;69450;Saint-Cyr-au-Mont-d'Or;29/01/2021
+60;Chauvin;"0730466148";chauvin@laposte.net;50, Avenue de la Division Leclerc;69340;Francheville;15/01/2021;21/01/2021;28/01/2021;Gros;"0730578978";46, Boulevard des Gaulois;69160;Tassin-la-Demi-Lune;29/01/2021
+61;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;18/01/2021;26/01/2021;29/01/2021;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;29/01/2021
+62;Lucas;"0692075293";lucas@sfr.fr;15, Rue de la Fraternité;69380;Lissieu;19/01/2021;28/01/2021;29/01/2021;Meyer;"0610953253";4, Rue des Héros;69200;Vénissieux;29/01/2021
+63;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;21/01/2021;28/01/2021;29/01/2021;;"";;;;
+64;Dufresne;"0641178956";dufresne@orange.fr;29, Rue de la Révolution;69002;Lyon 2eme;21/01/2021;28/01/2021;29/01/2021;Dufresne;"0641178956";29, Rue de la Révolution;69002;Lyon 2eme;29/01/2021
+65;Gros;"0730578978";gros@outlook.com;46, Boulevard des Gaulois;69160;Tassin-la-Demi-Lune;22/01/2021;28/01/2021;29/01/2021;Gros;"0730578978";46, Boulevard des Gaulois;69160;Tassin-la-Demi-Lune;29/01/2021
+66;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;22/01/2021;28/01/2021;29/01/2021;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;29/01/2021
+67;Gilbert;"0723974406";gilbert@sfr.fr;34, Rue du Commerce;69500;Bron;25/01/2021;26/01/2021;29/01/2021;Charron;"0772051520";20, Boulevard des Alpes;69520;Grigny-sur-Rhône;29/01/2021
+68;Masson;"0641892925";masson@yahoo.com;50, Avenue de Nantes;69270;Fontaines-sur-Saône;25/01/2021;28/01/2021;29/01/2021;;"";;;;
+69;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;25/01/2021;28/01/2021;29/01/2021;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;29/01/2021
+70;Joly;"0644846114";joly@protonmail.com;14, Avenue de Wagram;69580;Sathonay-Village;26/01/2021;26/01/2021;29/01/2021;Joly;"0644846114";14, Avenue de Wagram;69580;Sathonay-Village;29/01/2021
+71;Richard;"0635337022";richard@gmail.com;34, Rue Saint-Antoine;69250;Neuville-sur-Saône;26/01/2021;26/01/2021;29/01/2021;Richard;"0635337022";34, Rue Saint-Antoine;69250;Neuville-sur-Saône;29/01/2021
+72;Bois;"0729172337";bois@hotmail.com;24, Rue des Héros;69002;Lyon 2eme;26/01/2021;27/01/2021;29/01/2021;Bois;"0729172337";24, Rue des Héros;69002;Lyon 2eme;29/01/2021
+73;Meyer;"0610953253";meyer@gmail.com;4, Rue des Héros;69200;Vénissieux;27/01/2021;28/01/2021;29/01/2021;Gautier;"0687778853";3, Rue de l'Égalité;69230;Saint-Genis-Laval;29/01/2021
+74;François;"0658732580";françois@protonmail.com;11, Rue des Coquelicots;69330;Meyzieu;27/01/2021;28/01/2021;29/01/2021;François;"0658732580";11, Rue des Coquelicots;69330;Meyzieu;29/01/2021
+75;Boucher;"0638781559";boucher@sfr.fr;38, Rue de la Commune;69280;Marcy-l'Étoile;01/10/2021;01/10/2021;05/10/2021;Boucher;"0638781559";38, Rue de la Commune;69280;Marcy-l'Étoile;06/10/2021
+76;Richard;"0635337022";richard@gmail.com;34, Rue Saint-Antoine;69250;Neuville-sur-Saône;01/10/2021;01/10/2021;08/10/2021;Richard;"0635337022";34, Rue Saint-Antoine;69250;Neuville-sur-Saône;11/10/2021
+77;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;01/10/2021;06/10/2021;08/10/2021;;"";;;;
+78;Tanguy;"0636010054";tanguy@laposte.net;33, Avenue de Breteuil;69340;Francheville;01/10/2021;08/10/2021;15/10/2021;Marty;"0637773108";24, Rue des Cigognes;69320;Feyzin;20/10/2021
+79;Deschamps;"0696182788";deschamps@icloud.com;35, Rue de la Solidarité;69450;Saint-Cyr-au-Mont-d'Or;04/10/2021;15/10/2021;22/10/2021;Joly;"0644846114";14, Avenue de Wagram;69580;Sathonay-Village;27/10/2021
+80;Vidal;"0752001737";vidal@orange.fr;46, Rue Saint-Ouen;69009;Lyon 9eme;04/10/2021;18/10/2021;22/10/2021;Vidal;"0752001737";46, Rue Saint-Ouen;69009;Lyon 9eme;26/10/2021
+81;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;05/10/2021;;;;"";;;;
+82;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;05/10/2021;06/10/2021;11/10/2021;;"";;;;
+83;Mathieu;"0729520448";mathieu@icloud.com;32, Avenue de Lowendal;69680;Chassieu;05/10/2021;07/10/2021;20/10/2021;;"";;;;
+84;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;05/10/2021;15/10/2021;25/10/2021;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;28/10/2021
+85;Descamps;"0766585806";descamps@free.fr;27, Boulevard des Allobroges;69300;Caluire-et-Cuire;06/10/2021;08/10/2021;14/10/2021;;"";;;;
+86;Serrano;"0746767520";serrano@bbox.fr;42, Boulevard de Verdun;69150;Décines-Charpieu;06/10/2021;13/10/2021;18/10/2021;Serrano;"0746767520";42, Boulevard de Verdun;69150;Décines-Charpieu;20/10/2021
+87;Dupuis;"0639509781";dupuis@orange.fr;50, Boulevard du Maréchal Juin;69800;Saint-Priest;06/10/2021;14/10/2021;18/10/2021;Clerc;"0625973429";13, Rue Saint-Victor;69780;Mions;18/10/2021
+88;Restaurant Table Enchantée;"0720276574";table_enchantée@orange.fr;45, Rue Saint-Jacques;69270;Fontaines-sur-Saône;06/10/2021;15/10/2021;27/10/2021;;"";;;;
+89;Pires;"0652306693";pires@bbox.fr;42, Boulevard des Vosges;69780;Mions;07/10/2021;08/10/2021;12/10/2021;;"";;;;
+90;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;07/10/2021;14/10/2021;27/10/2021;;"";;;;
+91;Hernandez;"0630992042";hernandez@outlook.com;15, Boulevard des Allobroges;69650;Saint-Germain-au-Mont-d'Or;07/10/2021;20/10/2021;21/10/2021;;"";;;;
+92;Fournier;"0732561177";fournier@orange.fr;34, Avenue de Wagram;69360;Solaize;07/10/2021;20/10/2021;22/10/2021;Benedetti;"0781632325";14, Boulevard des Résistants;69280;Marcy-l'Étoile;22/10/2021
+93;Restaurant Comptoir du Terroir;"0616248133";comptoir_du_terroir@protonmail.com;44, Rue Saint-Michel;69340;Francheville;07/10/2021;21/10/2021;03/11/2021;;"";;;;
+94;Deleuze;"0637130330";deleuze@outlook.com;12, Rue Saint-Georges;69360;Solaize;08/10/2021;11/10/2021;18/10/2021;Dufresne;"0641178956";29, Rue de la Révolution;69002;Lyon 2eme;18/10/2021
+95;Lefevre;"0749019326";lefevre@outlook.com;27, Boulevard des Espagnols;69320;Feyzin;08/10/2021;15/10/2021;29/10/2021;Bois;"0729172337";24, Rue des Héros;69002;Lyon 2eme;03/11/2021
+96;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;11/10/2021;14/10/2021;25/10/2021;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;26/10/2021
+97;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;11/10/2021;22/10/2021;02/11/2021;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;02/11/2021
+98;Gauthier;"0696977450";gauthier@laposte.net;44, Boulevard de l'Yser;69390;Vernaison;12/10/2021;;;;"";;;;
+99;Ziegler;"0792431240";ziegler@sfr.fr;21, Avenue de Lowendal;69003;Lyon 3eme;12/10/2021;14/10/2021;19/10/2021;Ziegler;"0792431240";21, Avenue de Lowendal;69003;Lyon 3eme;19/10/2021
+100;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;12/10/2021;26/10/2021;03/11/2021;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;05/11/2021
+101;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;14/10/2021;27/10/2021;03/11/2021;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;03/11/2021
+102;Petit;"0688609527";petit@hotmail.com;12, Boulevard de la Gare;69680;Chassieu;14/10/2021;28/10/2021;04/11/2021;Tanguy;"0636010054";33, Avenue de Breteuil;69340;Francheville;09/11/2021
+103;Tanguy;"0636010054";tanguy@laposte.net;33, Avenue de Breteuil;69340;Francheville;14/10/2021;28/10/2021;09/11/2021;Gagnon;"0732683300";23, Rue des Prés;69320;Feyzin;09/11/2021
+104;Jacquet;"0796799393";jacquet@laposte.net;42, Boulevard des Espagnols;69290;Craponne;15/10/2021;15/10/2021;26/10/2021;Royer;"0725836057";41, Rue Saint-Charles;69780;Mions;27/10/2021
+105;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;15/10/2021;25/10/2021;29/10/2021;;"";;;;
+106;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;19/10/2021;29/10/2021;05/11/2021;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;08/11/2021
+107;Restaurant Festin Royal;"0677778735";festin_royal@laposte.net;7, Rue de la Justice;69004;Lyon 4eme;19/10/2021;02/11/2021;10/11/2021;;"";;;;
+108;Simon;"0785242019";simon@gmail.com;6, Rue Saint-Ouen;69260;Charbonnières-les-Bains;21/10/2021;22/10/2021;02/11/2021;Durand;"0796145775";40, Rue des Chênes;69580;Sathonay-Village;03/11/2021
+109;Dubois;"0692607439";dubois@bbox.fr;2, Rue des Résistants;69500;Bron;21/10/2021;29/10/2021;08/11/2021;Dubois;"0692607439";2, Rue des Résistants;69500;Bron;08/11/2021
+110;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;21/10/2021;02/11/2021;04/11/2021;Clerc;"0625973429";13, Rue Saint-Victor;69780;Mions;04/11/2021
+111;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;22/10/2021;26/10/2021;05/11/2021;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;05/11/2021
+112;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;22/10/2021;05/11/2021;10/11/2021;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;10/11/2021
+113;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;25/10/2021;03/11/2021;10/11/2021;;"";;;;
+114;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;26/10/2021;28/10/2021;10/11/2021;;"";;;;
+115;Restaurant Artisan des Saveurs;"0694021431";artisan_des_saveurs@bbox.fr;20, Boulevard des Allobroges;69330;Meyzieu;26/10/2021;04/11/2021;10/11/2021;;"";;;;
+116;Blanc;"0692609392";blanc@protonmail.com;38, Avenue de Nice;69500;Bron;26/10/2021;08/11/2021;09/11/2021;Lefevre;"0749019326";27, Boulevard des Espagnols;69320;Feyzin;10/11/2021
+117;Marty;"0637773108";marty@laposte.net;24, Rue des Cigognes;69320;Feyzin;27/10/2021;27/10/2021;29/10/2021;Marty;"0637773108";24, Rue des Cigognes;69320;Feyzin;04/11/2021
+118;Meunier;"0661308877";meunier@outlook.com;22, Rue des Jardins;69100;Villeurbanne;27/10/2021;03/11/2021;05/11/2021;Meunier;"0661308877";22, Rue des Jardins;69100;Villeurbanne;05/11/2021
+119;Ziegler;"0792431240";ziegler@sfr.fr;21, Avenue de Lowendal;69003;Lyon 3eme;27/10/2021;09/11/2021;10/11/2021;;"";;;;
+120;Dufresne;"0641178956";dufresne@orange.fr;29, Rue de la Révolution;69002;Lyon 2eme;28/10/2021;02/11/2021;08/11/2021;;"";;;;
+121;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;28/10/2021;03/11/2021;10/11/2021;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;10/11/2021
+122;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;28/10/2021;09/11/2021;10/11/2021;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;10/11/2021
+123;Hernandez;"0630992042";hernandez@outlook.com;15, Boulevard des Allobroges;69650;Saint-Germain-au-Mont-d'Or;29/10/2021;05/11/2021;08/11/2021;Aubry;"0755210517";7, Rue de la Justice;69310;Oullins-Pierre-Bénite;09/11/2021
+124;Restaurant Cuisine Ancienne;"0674460059";cuisine_ancienne@laposte.net;15, Rue Saint-Henri;69700;Givors;29/10/2021;09/11/2021;10/11/2021;;"";;;;
+125;David;"0677688417";david@hotmail.com;1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;29/10/2021;09/11/2021;10/11/2021;Roux;"0650504324";11, Avenue de Paris;69730;Genay;10/11/2021
+126;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;02/11/2021;09/11/2021;10/11/2021;;"";;;;
+127;Ziegler;"0792431240";ziegler@sfr.fr;21, Avenue de Lowendal;69003;Lyon 3eme;03/11/2021;09/11/2021;10/11/2021;Simon;"0785242019";6, Rue Saint-Ouen;69260;Charbonnières-les-Bains;10/11/2021
+128;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;03/11/2021;09/11/2021;10/11/2021;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;10/11/2021
+129;Descamps;"0766585806";descamps@free.fr;27, Boulevard des Allobroges;69300;Caluire-et-Cuire;03/11/2021;09/11/2021;10/11/2021;Mercier;"0779581408";19, Boulevard de la Paix;69130;Écully;10/11/2021
+130;Descamps;"0766585806";descamps@free.fr;27, Boulevard des Allobroges;69300;Caluire-et-Cuire;04/11/2021;09/11/2021;10/11/2021;Descamps;"0766585806";27, Boulevard des Allobroges;69300;Caluire-et-Cuire;10/11/2021
+131;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;05/11/2021;05/11/2021;10/11/2021;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;10/11/2021
+132;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;05/11/2021;09/11/2021;10/11/2021;;"";;;;
+133;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;05/11/2021;09/11/2021;10/11/2021;;"";;;;
+134;Richard;"0635337022";richard@gmail.com;34, Rue Saint-Antoine;69250;Neuville-sur-Saône;05/11/2021;09/11/2021;10/11/2021;Brochet;"0768399605";2, Rue Saint-Martin;69350;La Mulatière;10/11/2021
+135;Chauvin;"0730466148";chauvin@laposte.net;50, Avenue de la Division Leclerc;69340;Francheville;05/11/2021;09/11/2021;10/11/2021;Chauvin;"0730466148";50, Avenue de la Division Leclerc;69340;Francheville;10/11/2021
+136;Mathieu;"0729520448";mathieu@icloud.com;32, Avenue de Lowendal;69680;Chassieu;05/11/2021;09/11/2021;10/11/2021;Mathieu;"0729520448";32, Avenue de Lowendal;69680;Chassieu;10/11/2021
+137;Thomson;"0642260931";thomson@gmail.com;5, Boulevard des Pyrénées;69300;Caluire-et-Cuire;08/11/2021;08/11/2021;10/11/2021;Thomson;"0642260931";5, Boulevard des Pyrénées;69300;Caluire-et-Cuire;10/11/2021
+138;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;08/11/2021;09/11/2021;10/11/2021;Clerc;"0625973429";13, Rue Saint-Victor;69780;Mions;10/11/2021
+139;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;08/11/2021;09/11/2021;10/11/2021;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;10/11/2021
+140;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;08/11/2021;09/11/2021;10/11/2021;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;10/11/2021
+141;Thibault;"0736092438";thibault@laposte.net;44, Boulevard de la Paix;69003;Lyon 3eme;08/11/2021;09/11/2021;10/11/2021;Marchand;"0766682828";6, Rue Saint-François;69004;Lyon 4eme;10/11/2021
+142;Restaurant Festin Royal;"0677778735";festin_royal@laposte.net;7, Rue de la Justice;69004;Lyon 4eme;01/04/2022;11/04/2022;18/04/2022;;"";;;;
+143;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;01/04/2022;14/04/2022;26/04/2022;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;29/04/2022
+144;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;04/04/2022;05/04/2022;06/04/2022;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;11/04/2022
+145;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;04/04/2022;05/04/2022;07/04/2022;;"";;;;
+146;Thomas;"0771670823";thomas@hotmail.com;24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;04/04/2022;06/04/2022;20/04/2022;Mallet;"0764950337";49, Avenue de la Motte-Picquet;69200;Vénissieux;22/04/2022
+147;Benedetti;"0781632325";benedetti@sfr.fr;14, Boulevard des Résistants;69280;Marcy-l'Étoile;05/04/2022;07/04/2022;08/04/2022;Benedetti;"0781632325";14, Boulevard des Résistants;69280;Marcy-l'Étoile;12/04/2022
+148;Benoît;"0641640798";benoît@outlook.com;3, Rue de la Concorde;69380;Lissieu;05/04/2022;14/04/2022;25/04/2022;Benoît;"0641640798";3, Rue de la Concorde;69380;Lissieu;25/04/2022
+149;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;05/04/2022;18/04/2022;19/04/2022;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;20/04/2022
+150;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;05/04/2022;18/04/2022;29/04/2022;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/04/2022
+151;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;05/04/2022;19/04/2022;25/04/2022;;"";;;;
+152;Meyer;"0610953253";meyer@gmail.com;4, Rue des Héros;69200;Vénissieux;05/04/2022;19/04/2022;29/04/2022;Meyer;"0610953253";4, Rue des Héros;69200;Vénissieux;29/04/2022
+153;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;06/04/2022;06/04/2022;19/04/2022;;"";;;;
+154;Joly;"0644846114";joly@protonmail.com;14, Avenue de Wagram;69580;Sathonay-Village;06/04/2022;13/04/2022;15/04/2022;Joly;"0644846114";14, Avenue de Wagram;69580;Sathonay-Village;20/04/2022
+155;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;06/04/2022;20/04/2022;29/04/2022;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/04/2022
+156;Durand;"0796145775";durand@orange.fr;40, Rue des Chênes;69580;Sathonay-Village;07/04/2022;12/04/2022;15/04/2022;;"";;;;
+157;Benedetti;"0781632325";benedetti@sfr.fr;14, Boulevard des Résistants;69280;Marcy-l'Étoile;07/04/2022;12/04/2022;25/04/2022;Chapman;"0648204390";12, Rue des Commerçants;69960;Corbas;27/04/2022
+158;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;07/04/2022;14/04/2022;25/04/2022;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;26/04/2022
+159;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;07/04/2022;15/04/2022;19/04/2022;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;19/04/2022
+160;Garin;"0633721410";garin@protonmail.com;1, Rue du Calvaire;69380;Lissieu;08/04/2022;13/04/2022;21/04/2022;;"";;;;
+161;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;08/04/2022;14/04/2022;15/04/2022;Thomas;"0771670823";24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;20/04/2022
+162;Thibault;"0736092438";thibault@laposte.net;44, Boulevard de la Paix;69003;Lyon 3eme;08/04/2022;14/04/2022;21/04/2022;Thibault;"0736092438";44, Boulevard de la Paix;69003;Lyon 3eme;25/04/2022
+163;Pires;"0652306693";pires@bbox.fr;42, Boulevard des Vosges;69780;Mions;11/04/2022;15/04/2022;27/04/2022;Pires;"0652306693";42, Boulevard des Vosges;69780;Mions;28/04/2022
+164;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;11/04/2022;20/04/2022;26/04/2022;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;27/04/2022
+165;Jacquet;"0796799393";jacquet@laposte.net;42, Boulevard des Espagnols;69290;Craponne;11/04/2022;21/04/2022;29/04/2022;Jacquet;"0796799393";42, Boulevard des Espagnols;69290;Craponne;29/04/2022
+166;Aubry;"0755210517";aubry@orange.fr;7, Rue de la Justice;69310;Oullins-Pierre-Bénite;11/04/2022;25/04/2022;26/04/2022;;"";;;;
+167;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;12/04/2022;14/04/2022;27/04/2022;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;28/04/2022
+168;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;13/04/2022;15/04/2022;26/04/2022;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;28/04/2022
+169;Meunier;"0661308877";meunier@outlook.com;22, Rue des Jardins;69100;Villeurbanne;13/04/2022;18/04/2022;25/04/2022;;"";;;;
+170;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;13/04/2022;26/04/2022;29/04/2022;;"";;;;
+171;Aubry;"0755210517";aubry@orange.fr;7, Rue de la Justice;69310;Oullins-Pierre-Bénite;13/04/2022;27/04/2022;29/04/2022;Olivier;"0652790453";50, Rue des Colibris;69730;Genay;29/04/2022
+172;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;14/04/2022;20/04/2022;29/04/2022;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;29/04/2022
+173;Gautier;"0687778853";gautier@icloud.com;3, Rue de l'Égalité;69230;Saint-Genis-Laval;14/04/2022;26/04/2022;27/04/2022;Gautier;"0687778853";3, Rue de l'Égalité;69230;Saint-Genis-Laval;27/04/2022
+174;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;15/04/2022;15/04/2022;21/04/2022;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;22/04/2022
+175;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;15/04/2022;22/04/2022;25/04/2022;;"";;;;
+176;Charron;"0772051520";charron@sfr.fr;20, Boulevard des Alpes;69520;Grigny-sur-Rhône;15/04/2022;26/04/2022;28/04/2022;Langlois;"0745199639";30, Rue du Château;69280;Marcy-l'Étoile;29/04/2022
+177;Pires;"0652306693";pires@bbox.fr;42, Boulevard des Vosges;69780;Mions;18/04/2022;18/04/2022;25/04/2022;Royer;"0725836057";41, Rue Saint-Charles;69780;Mions;26/04/2022
+178;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;18/04/2022;26/04/2022;29/04/2022;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;29/04/2022
+179;Meyer;"0610953253";meyer@gmail.com;4, Rue des Héros;69200;Vénissieux;18/04/2022;27/04/2022;28/04/2022;Meyer;"0610953253";4, Rue des Héros;69200;Vénissieux;28/04/2022
+180;Rochet;"0669381286";rochet@laposte.net;1, Rue Saint-Sauveur;69003;Lyon 3eme;18/04/2022;28/04/2022;29/04/2022;Benedetti;"0781632325";14, Boulevard des Résistants;69280;Marcy-l'Étoile;29/04/2022
+181;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;19/04/2022;20/04/2022;27/04/2022;Roux;"0650504324";11, Avenue de Paris;69730;Genay;29/04/2022
+182;Chapman;"0648204390";chapman@laposte.net;12, Rue des Commerçants;69960;Corbas;19/04/2022;21/04/2022;29/04/2022;Descamps;"0766585806";27, Boulevard des Allobroges;69300;Caluire-et-Cuire;29/04/2022
+183;Barbot;"0693879448";barbot@gmail.com;43, Avenue de Lowendal;69009;Lyon 9eme;19/04/2022;22/04/2022;27/04/2022;Robert;"0774537467";21, Rue des Bois;69730;Genay;29/04/2022
+184;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;19/04/2022;28/04/2022;29/04/2022;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;29/04/2022
+185;Schneider;"0668040251";schneider@laposte.net;32, Rue du Port;69003;Lyon 3eme;20/04/2022;20/04/2022;21/04/2022;Bouvier;"0673496436";40, Boulevard de la République;69003;Lyon 3eme;21/04/2022
+186;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;20/04/2022;22/04/2022;26/04/2022;Castel;"0654645684";12, Rue du Commerce;69003;Lyon 3eme;29/04/2022
+187;David;"0677688417";david@hotmail.com;1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;20/04/2022;22/04/2022;27/04/2022;David;"0677688417";1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;28/04/2022
+188;Gagnon;"0732683300";gagnon@bbox.fr;23, Rue des Prés;69320;Feyzin;20/04/2022;28/04/2022;29/04/2022;;"";;;;
+189;Benoit;"0732532085";benoit@protonmail.com;25, Rue du Progrès;69500;Bron;20/04/2022;28/04/2022;29/04/2022;Benoit;"0732532085";25, Rue du Progrès;69500;Bron;29/04/2022
+190;Benoît;"0641640798";benoît@outlook.com;3, Rue de la Concorde;69380;Lissieu;20/04/2022;28/04/2022;29/04/2022;Benoît;"0641640798";3, Rue de la Concorde;69380;Lissieu;29/04/2022
+191;Thomas;"0771670823";thomas@hotmail.com;24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;20/04/2022;28/04/2022;29/04/2022;Thomas;"0771670823";24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;29/04/2022
+192;Guitton;"0788433940";guitton@laposte.net;50, Boulevard des Gaulois;69330;Meyzieu;21/04/2022;22/04/2022;29/04/2022;Guitton;"0788433940";50, Boulevard des Gaulois;69330;Meyzieu;29/04/2022
+193;Rey;"0742332157";rey@laposte.net;5, Boulevard de la Gare;69260;Charbonnières-les-Bains;21/04/2022;26/04/2022;29/04/2022;Rey;"0742332157";5, Boulevard de la Gare;69260;Charbonnières-les-Bains;29/04/2022
+194;Roussel;"0612584833";roussel@laposte.net;36, Avenue de Saxe;69520;Grigny-sur-Rhône;21/04/2022;28/04/2022;29/04/2022;Marty;"0637773108";24, Rue des Cigognes;69320;Feyzin;29/04/2022
+195;Dupuis;"0639509781";dupuis@orange.fr;50, Boulevard du Maréchal Juin;69800;Saint-Priest;22/04/2022;22/04/2022;27/04/2022;Dupont;"0644642517";20, Rue des Bois;69540;Irigny;27/04/2022
+196;Thibault;"0736092438";thibault@laposte.net;44, Boulevard de la Paix;69003;Lyon 3eme;22/04/2022;27/04/2022;28/04/2022;Thibault;"0736092438";44, Boulevard de la Paix;69003;Lyon 3eme;29/04/2022
+197;Restaurant Mets Épicuriens;"0734206304";mets_épicuriens@protonmail.com;6, Rue Saint-Antoine;69280;Marcy-l'Étoile;22/04/2022;28/04/2022;29/04/2022;;"";;;;
+198;Michel;"0622833179";michel@orange.fr;3, Boulevard des Bretons;69800;Saint-Priest;22/04/2022;28/04/2022;29/04/2022;Michel;"0622833179";3, Boulevard des Bretons;69800;Saint-Priest;29/04/2022
+199;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;22/04/2022;28/04/2022;29/04/2022;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;29/04/2022
+200;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;26/04/2022;28/04/2022;29/04/2022;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;29/04/2022
+201;Dufresne;"0641178956";dufresne@orange.fr;29, Rue de la Révolution;69002;Lyon 2eme;26/04/2022;28/04/2022;29/04/2022;Dufresne;"0641178956";29, Rue de la Révolution;69002;Lyon 2eme;29/04/2022
+202;Guilbert;"0619409883";guilbert@laposte.net;39, Rue des Bois;69008;Lyon 8eme;27/04/2022;27/04/2022;29/04/2022;Guilbert;"0619409883";39, Rue des Bois;69008;Lyon 8eme;29/04/2022
+203;Renard;"0790893058";renard@protonmail.com;16, Rue de la Chapelle;69003;Lyon 3eme;27/04/2022;28/04/2022;29/04/2022;Renard;"0790893058";16, Rue de la Chapelle;69003;Lyon 3eme;29/04/2022
+204;Hernandez;"0630992042";hernandez@outlook.com;15, Boulevard des Allobroges;69650;Saint-Germain-au-Mont-d'Or;27/04/2022;28/04/2022;29/04/2022;Caron;"0736175261";43, Rue Saint-Henri;69160;Tassin-la-Demi-Lune;29/04/2022
+205;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;27/04/2022;28/04/2022;29/04/2022;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;29/04/2022
+206;Restaurant Cuisine Ancienne;"0674460059";cuisine_ancienne@laposte.net;15, Rue Saint-Henri;69700;Givors;01/12/2022;01/12/2022;09/12/2022;;"";;;;
+207;Guerin;"0756352637";guerin@icloud.com;15, Rue de la Solidarité;69001;Lyon 1er;01/12/2022;12/12/2022;15/12/2022;Guerin;"0756352637";15, Rue de la Solidarité;69001;Lyon 1er;19/12/2022
+208;Vasseur;"0639070158";vasseur@protonmail.com;23, Boulevard des Français Libres;69520;Grigny-sur-Rhône;01/12/2022;13/12/2022;20/12/2022;Serrano;"0746767520";42, Boulevard de Verdun;69150;Décines-Charpieu;23/12/2022
+209;Lucas;"0692075293";lucas@sfr.fr;15, Rue de la Fraternité;69380;Lissieu;01/12/2022;14/12/2022;15/12/2022;;"";;;;
+210;Guilbert;"0619409883";guilbert@laposte.net;39, Rue des Bois;69008;Lyon 8eme;02/12/2022;02/12/2022;14/12/2022;;"";;;;
+211;Marchand;"0766682828";marchand@outlook.com;6, Rue Saint-François;69004;Lyon 4eme;02/12/2022;07/12/2022;09/12/2022;Marchand;"0766682828";6, Rue Saint-François;69004;Lyon 4eme;14/12/2022
+212;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;02/12/2022;13/12/2022;27/12/2022;;"";;;;
+213;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;05/12/2022;07/12/2022;14/12/2022;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;15/12/2022
+214;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;05/12/2022;07/12/2022;19/12/2022;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;19/12/2022
+215;Rochet;"0669381286";rochet@laposte.net;1, Rue Saint-Sauveur;69003;Lyon 3eme;05/12/2022;08/12/2022;14/12/2022;Menet;"0658312903";15, Rue Saint-Sauveur;69160;Tassin-la-Demi-Lune;14/12/2022
+216;Montel;"0624769746";montel@free.fr;46, Rue du Stade;69700;Givors;05/12/2022;08/12/2022;20/12/2022;Courtois;"0794777965";48, Avenue de Clermont;69570;Dardilly;22/12/2022
+217;Bois;"0729172337";bois@hotmail.com;24, Rue des Héros;69002;Lyon 2eme;05/12/2022;14/12/2022;20/12/2022;;"";;;;
+218;Rochet;"0669381286";rochet@laposte.net;1, Rue Saint-Sauveur;69003;Lyon 3eme;06/12/2022;15/12/2022;28/12/2022;;"";;;;
+219;Restaurant Gourmet Voyageur;"0759379292";gourmet_voyageur@icloud.com;23, Rue Saint-Jean;69320;Feyzin;06/12/2022;19/12/2022;20/12/2022;;"";;;;
+220;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;06/12/2022;19/12/2022;27/12/2022;;"";;;;
+221;Restaurant Saveurs Italiennes;"0615865995";saveurs_italiennes@orange.fr;40, Boulevard du Général de Gaulle;69150;Décines-Charpieu;06/12/2022;19/12/2022;28/12/2022;;"";;;;
+222;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;06/12/2022;20/12/2022;23/12/2022;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;27/12/2022
+223;Vallée;"0620818268";vallée@protonmail.com;38, Rue des Instituteurs;69360;Solaize;06/12/2022;20/12/2022;26/12/2022;Vallée;"0620818268";38, Rue des Instituteurs;69360;Solaize;29/12/2022
+224;Mercier;"0779581408";mercier@hotmail.com;19, Boulevard de la Paix;69130;Écully;06/12/2022;20/12/2022;27/12/2022;Mercier;"0779581408";19, Boulevard de la Paix;69130;Écully;29/12/2022
+225;Baron;"0626079280";baron@icloud.com;28, Rue du Quai;69004;Lyon 4eme;07/12/2022;07/12/2022;09/12/2022;Garin;"0633721410";1, Rue du Calvaire;69380;Lissieu;14/12/2022
+226;Bouvier;"0673496436";bouvier@sfr.fr;40, Boulevard de la République;69003;Lyon 3eme;07/12/2022;09/12/2022;20/12/2022;Bouvier;"0673496436";40, Boulevard de la République;69003;Lyon 3eme;20/12/2022
+227;Masson;"0641892925";masson@yahoo.com;50, Avenue de Nantes;69270;Fontaines-sur-Saône;07/12/2022;14/12/2022;16/12/2022;Masson;"0641892925";50, Avenue de Nantes;69270;Fontaines-sur-Saône;19/12/2022
+228;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;07/12/2022;21/12/2022;26/12/2022;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;26/12/2022
+229;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;08/12/2022;14/12/2022;21/12/2022;;"";;;;
+230;Gautier;"0687778853";gautier@icloud.com;3, Rue de l'Égalité;69230;Saint-Genis-Laval;08/12/2022;14/12/2022;28/12/2022;Lemoine;"0715303722";17, Boulevard des Allobroges;69960;Corbas;28/12/2022
+231;Restaurant Festin Royal;"0677778735";festin_royal@laposte.net;7, Rue de la Justice;69004;Lyon 4eme;08/12/2022;15/12/2022;29/12/2022;;"";;;;
+232;Dehousse;"0691450450";dehousse@outlook.com;10, Rue Saint-Honoré;69006;Lyon 6eme;09/12/2022;15/12/2022;19/12/2022;Dehousse;"0691450450";10, Rue Saint-Honoré;69006;Lyon 6eme;22/12/2022
+233;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;09/12/2022;20/12/2022;23/12/2022;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;26/12/2022
+234;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;12/12/2022;15/12/2022;19/12/2022;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;20/12/2022
+235;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;12/12/2022;15/12/2022;28/12/2022;Robert;"0774537467";21, Rue des Bois;69730;Genay;29/12/2022
+236;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;12/12/2022;16/12/2022;23/12/2022;;"";;;;
+237;Lemoine;"0715303722";lemoine@outlook.com;17, Boulevard des Allobroges;69960;Corbas;12/12/2022;21/12/2022;22/12/2022;;"";;;;
+238;Restaurant Esprit du Sud;"0620605888";esprit_du_sud@sfr.fr;15, Avenue de Bordeaux;69570;Dardilly;12/12/2022;23/12/2022;29/12/2022;;"";;;;
+239;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;13/12/2022;;;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;
+240;Gagnon;"0732683300";gagnon@bbox.fr;23, Rue des Prés;69320;Feyzin;13/12/2022;13/12/2022;20/12/2022;Delarue;"0651458072";3, Rue des Métiers;69320;Feyzin;20/12/2022
+241;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;13/12/2022;14/12/2022;26/12/2022;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;28/12/2022
+242;Thibault;"0736092438";thibault@laposte.net;44, Boulevard de la Paix;69003;Lyon 3eme;13/12/2022;14/12/2022;28/12/2022;Meyer;"0610953253";4, Rue des Héros;69200;Vénissieux;29/12/2022
+243;Marty;"0637773108";marty@laposte.net;24, Rue des Cigognes;69320;Feyzin;13/12/2022;15/12/2022;16/12/2022;Guilbert;"0619409883";39, Rue des Bois;69008;Lyon 8eme;19/12/2022
+244;François;"0658732580";françois@protonmail.com;11, Rue des Coquelicots;69330;Meyzieu;13/12/2022;21/12/2022;23/12/2022;Aubry;"0755210517";7, Rue de la Justice;69310;Oullins-Pierre-Bénite;28/12/2022
+245;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;13/12/2022;22/12/2022;29/12/2022;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;29/12/2022
+246;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;13/12/2022;26/12/2022;29/12/2022;Jacquet;"0796799393";42, Boulevard des Espagnols;69290;Craponne;29/12/2022
+247;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;14/12/2022;23/12/2022;28/12/2022;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/12/2022
+248;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;14/12/2022;28/12/2022;29/12/2022;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;29/12/2022
+249;Gilbert;"0723974406";gilbert@sfr.fr;34, Rue du Commerce;69500;Bron;15/12/2022;15/12/2022;21/12/2022;Brochet;"0768399605";2, Rue Saint-Martin;69350;La Mulatière;21/12/2022
+250;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;15/12/2022;16/12/2022;27/12/2022;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;29/12/2022
+251;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;15/12/2022;19/12/2022;29/12/2022;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;29/12/2022
+252;Restaurant Gourmet Voyageur;"0759379292";gourmet_voyageur@icloud.com;23, Rue Saint-Jean;69320;Feyzin;15/12/2022;27/12/2022;29/12/2022;;"";;;;
+253;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;16/12/2022;16/12/2022;19/12/2022;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;22/12/2022
+254;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;16/12/2022;16/12/2022;27/12/2022;;"";;;;
+255;Descamps;"0766585806";descamps@free.fr;27, Boulevard des Allobroges;69300;Caluire-et-Cuire;16/12/2022;19/12/2022;22/12/2022;Boyer;"0675016227";9, Rue des Moineaux;69300;Caluire-et-Cuire;26/12/2022
+256;Marty;"0637773108";marty@laposte.net;24, Rue des Cigognes;69320;Feyzin;16/12/2022;26/12/2022;29/12/2022;Marty;"0637773108";24, Rue des Cigognes;69320;Feyzin;29/12/2022
+257;Restaurant Mets Épicuriens;"0734206304";mets_épicuriens@protonmail.com;6, Rue Saint-Antoine;69280;Marcy-l'Étoile;16/12/2022;28/12/2022;29/12/2022;;"";;;;
+258;Chauvin;"0730466148";chauvin@laposte.net;50, Avenue de la Division Leclerc;69340;Francheville;16/12/2022;28/12/2022;29/12/2022;Rousseau;"0662474575";2, Rue Saint-Louis;69370;Saint-Didier-au-Mont-d'Or;29/12/2022
+259;Guillemette;"0650129632";guillemette@yahoo.com;7, Boulevard des Fusillés;69960;Corbas;16/12/2022;28/12/2022;29/12/2022;Guillemette;"0650129632";7, Boulevard des Fusillés;69960;Corbas;29/12/2022
+260;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;19/12/2022;20/12/2022;29/12/2022;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;29/12/2022
+261;Restaurant Table Enchantée;"0720276574";table_enchantée@orange.fr;45, Rue Saint-Jacques;69270;Fontaines-sur-Saône;19/12/2022;21/12/2022;29/12/2022;;"";;;;
+262;Marty;"0637773108";marty@laposte.net;24, Rue des Cigognes;69320;Feyzin;19/12/2022;22/12/2022;28/12/2022;Marty;"0637773108";24, Rue des Cigognes;69320;Feyzin;29/12/2022
+263;Picard;"0735607975";picard@outlook.com;25, Rue Saint-Honoré;69890;La Tour-de-Salvagny;19/12/2022;27/12/2022;29/12/2022;Picard;"0735607975";25, Rue Saint-Honoré;69890;La Tour-de-Salvagny;29/12/2022
+264;Dufresne;"0641178956";dufresne@orange.fr;29, Rue de la Révolution;69002;Lyon 2eme;20/12/2022;23/12/2022;29/12/2022;Dufresne;"0641178956";29, Rue de la Révolution;69002;Lyon 2eme;29/12/2022
+265;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;20/12/2022;23/12/2022;29/12/2022;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;29/12/2022
+266;Blanchard;"0668920585";blanchard@gmail.com;37, Rue des Fleurs;69760;Limonest;20/12/2022;28/12/2022;29/12/2022;Blanchard;"0668920585";37, Rue des Fleurs;69760;Limonest;29/12/2022
+267;Rivière;"0672516067";rivière@protonmail.com;32, Avenue de la Motte-Picquet;69340;Francheville;20/12/2022;28/12/2022;29/12/2022;Rivière;"0672516067";32, Avenue de la Motte-Picquet;69340;Francheville;29/12/2022
+268;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;21/12/2022;26/12/2022;29/12/2022;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;29/12/2022
+269;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;21/12/2022;28/12/2022;29/12/2022;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;29/12/2022
+270;Blanchard;"0668920585";blanchard@gmail.com;37, Rue des Fleurs;69760;Limonest;22/12/2022;27/12/2022;28/12/2022;Benoît;"0641640798";3, Rue de la Concorde;69380;Lissieu;28/12/2022
+271;Thibault;"0736092438";thibault@laposte.net;44, Boulevard de la Paix;69003;Lyon 3eme;22/12/2022;27/12/2022;29/12/2022;David;"0677688417";1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;29/12/2022
+272;Boyer;"0675016227";boyer@icloud.com;9, Rue des Moineaux;69300;Caluire-et-Cuire;22/12/2022;28/12/2022;29/12/2022;Richard;"0635337022";34, Rue Saint-Antoine;69250;Neuville-sur-Saône;29/12/2022
+273;Baron;"0626079280";baron@icloud.com;28, Rue du Quai;69004;Lyon 4eme;22/12/2022;28/12/2022;29/12/2022;Boutin;"0641072522";13, Rue des Hirondelles;69004;Lyon 4eme;29/12/2022
+274;Lefevre;"0749019326";lefevre@outlook.com;27, Boulevard des Espagnols;69320;Feyzin;22/12/2022;28/12/2022;29/12/2022;Lefevre;"0749019326";27, Boulevard des Espagnols;69320;Feyzin;29/12/2022
+275;Restaurant Mets Épicuriens;"0734206304";mets_épicuriens@protonmail.com;6, Rue Saint-Antoine;69280;Marcy-l'Étoile;23/12/2022;;;;"";;;;
+276;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;23/12/2022;23/12/2022;29/12/2022;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;29/12/2022
+277;Bois;"0729172337";bois@hotmail.com;24, Rue des Héros;69002;Lyon 2eme;23/12/2022;26/12/2022;29/12/2022;;"";;;;
+278;Dupont;"0644642517";dupont@icloud.com;20, Rue des Bois;69540;Irigny;23/12/2022;28/12/2022;29/12/2022;Dupont;"0644642517";20, Rue des Bois;69540;Irigny;29/12/2022
+279;Michaud;"0636732048";michaud@free.fr;49, Rue des Pâquerettes;69890;La Tour-de-Salvagny;26/12/2022;28/12/2022;29/12/2022;Michaud;"0636732048";49, Rue des Pâquerettes;69890;La Tour-de-Salvagny;29/12/2022
+280;Royer;"0725836057";royer@icloud.com;41, Rue Saint-Charles;69780;Mions;27/12/2022;27/12/2022;29/12/2022;Langlois;"0745199639";30, Rue du Château;69280;Marcy-l'Étoile;29/12/2022
+281;Fournier;"0732561177";fournier@orange.fr;34, Avenue de Wagram;69360;Solaize;27/12/2022;28/12/2022;29/12/2022;Brochet;"0768399605";2, Rue Saint-Martin;69350;La Mulatière;29/12/2022
+282;Brun;"0612871619";brun@free.fr;50, Rue du Puits;69350;La Mulatière;27/12/2022;28/12/2022;29/12/2022;Boucher;"0638781559";38, Rue de la Commune;69280;Marcy-l'Étoile;29/12/2022
+283;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;27/12/2022;28/12/2022;29/12/2022;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;29/12/2022
+284;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;27/12/2022;28/12/2022;29/12/2022;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;29/12/2022
+285;Restaurant Table Enchantée;"0720276574";table_enchantée@orange.fr;45, Rue Saint-Jacques;69270;Fontaines-sur-Saône;01/06/2023;01/06/2023;14/06/2023;;"";;;;
+286;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;01/06/2023;05/06/2023;09/06/2023;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;09/06/2023
+287;Roux;"0650504324";roux@protonmail.com;11, Avenue de Paris;69730;Genay;01/06/2023;06/06/2023;07/06/2023;Durand;"0796145775";40, Rue des Chênes;69580;Sathonay-Village;07/06/2023
+288;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;01/06/2023;06/06/2023;08/06/2023;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;08/06/2023
+289;Rivière;"0672516067";rivière@protonmail.com;32, Avenue de la Motte-Picquet;69340;Francheville;02/06/2023;07/06/2023;09/06/2023;Rivière;"0672516067";32, Avenue de la Motte-Picquet;69340;Francheville;09/06/2023
+290;Picard;"0735607975";picard@outlook.com;25, Rue Saint-Honoré;69890;La Tour-de-Salvagny;02/06/2023;09/06/2023;13/06/2023;Vasseur;"0639070158";23, Boulevard des Français Libres;69520;Grigny-sur-Rhône;16/06/2023
+291;Guichard;"0773471827";guichard@bbox.fr;17, Boulevard Gambetta;69500;Bron;02/06/2023;13/06/2023;22/06/2023;Guichard;"0773471827";17, Boulevard Gambetta;69500;Bron;27/06/2023
+292;Martinez;"0676324532";martinez@free.fr;21, Rue du Marché;69960;Corbas;02/06/2023;14/06/2023;20/06/2023;Baron;"0626079280";28, Rue du Quai;69004;Lyon 4eme;23/06/2023
+293;Mercier;"0779581408";mercier@hotmail.com;19, Boulevard de la Paix;69130;Écully;05/06/2023;05/06/2023;14/06/2023;;"";;;;
+294;Deleuze;"0637130330";deleuze@outlook.com;12, Rue Saint-Georges;69360;Solaize;05/06/2023;08/06/2023;13/06/2023;;"";;;;
+295;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;05/06/2023;09/06/2023;12/06/2023;;"";;;;
+296;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;06/06/2023;07/06/2023;12/06/2023;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;13/06/2023
+297;Thomson;"0642260931";thomson@gmail.com;5, Boulevard des Pyrénées;69300;Caluire-et-Cuire;06/06/2023;12/06/2023;20/06/2023;Brochet;"0768399605";2, Rue Saint-Martin;69350;La Mulatière;20/06/2023
+298;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;06/06/2023;15/06/2023;16/06/2023;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;20/06/2023
+299;François;"0658732580";françois@protonmail.com;11, Rue des Coquelicots;69330;Meyzieu;06/06/2023;19/06/2023;22/06/2023;;"";;;;
+300;Martin;"0635242367";martin@outlook.com;49, Rue du Marché;69570;Dardilly;07/06/2023;07/06/2023;15/06/2023;Martin;"0635242367";49, Rue du Marché;69570;Dardilly;19/06/2023
+301;Blanc;"0692609392";blanc@protonmail.com;38, Avenue de Nice;69500;Bron;07/06/2023;12/06/2023;16/06/2023;Sanchez;"0795748511";36, Boulevard des Résistants;69290;Craponne;21/06/2023
+302;Lefevre;"0749019326";lefevre@outlook.com;27, Boulevard des Espagnols;69320;Feyzin;07/06/2023;21/06/2023;29/06/2023;Lefevre;"0749019326";27, Boulevard des Espagnols;69320;Feyzin;29/06/2023
+303;Michel;"0622833179";michel@orange.fr;3, Boulevard des Bretons;69800;Saint-Priest;08/06/2023;;;Guerin;"0756352637";15, Rue de la Solidarité;69001;Lyon 1er;
+304;Restaurant Mets Épicuriens;"0734206304";mets_épicuriens@protonmail.com;6, Rue Saint-Antoine;69280;Marcy-l'Étoile;08/06/2023;16/06/2023;20/06/2023;;"";;;;
+305;Restaurant Cuisine Ancienne;"0674460059";cuisine_ancienne@laposte.net;15, Rue Saint-Henri;69700;Givors;08/06/2023;19/06/2023;27/06/2023;;"";;;;
+306;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;08/06/2023;19/06/2023;27/06/2023;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;28/06/2023
+307;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;09/06/2023;09/06/2023;20/06/2023;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;23/06/2023
+308;Fournier;"0732561177";fournier@orange.fr;34, Avenue de Wagram;69360;Solaize;09/06/2023;09/06/2023;23/06/2023;Fournier;"0732561177";34, Avenue de Wagram;69360;Solaize;28/06/2023
+309;Restaurant Saveurs Italiennes;"0615865995";saveurs_italiennes@orange.fr;40, Boulevard du Général de Gaulle;69150;Décines-Charpieu;09/06/2023;14/06/2023;21/06/2023;;"";;;;
+310;Meyer;"0610953253";meyer@gmail.com;4, Rue des Héros;69200;Vénissieux;09/06/2023;19/06/2023;28/06/2023;Meyer;"0610953253";4, Rue des Héros;69200;Vénissieux;29/06/2023
+311;Restaurant Esprit du Sud;"0620605888";esprit_du_sud@sfr.fr;15, Avenue de Bordeaux;69570;Dardilly;09/06/2023;20/06/2023;22/06/2023;;"";;;;
+312;Restaurant Mets Épicuriens;"0734206304";mets_épicuriens@protonmail.com;6, Rue Saint-Antoine;69280;Marcy-l'Étoile;09/06/2023;22/06/2023;29/06/2023;;"";;;;
+313;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;09/06/2023;23/06/2023;27/06/2023;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;28/06/2023
+314;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;12/06/2023;22/06/2023;23/06/2023;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;28/06/2023
+315;Clerc;"0625973429";clerc@free.fr;13, Rue Saint-Victor;69780;Mions;12/06/2023;26/06/2023;29/06/2023;;"";;;;
+316;Boucher;"0638781559";boucher@sfr.fr;38, Rue de la Commune;69280;Marcy-l'Étoile;13/06/2023;14/06/2023;28/06/2023;Boucher;"0638781559";38, Rue de la Commune;69280;Marcy-l'Étoile;29/06/2023
+317;Serrano;"0746767520";serrano@bbox.fr;42, Boulevard de Verdun;69150;Décines-Charpieu;13/06/2023;19/06/2023;29/06/2023;;"";;;;
+318;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;13/06/2023;26/06/2023;27/06/2023;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;29/06/2023
+319;Restaurant Comptoir du Terroir;"0616248133";comptoir_du_terroir@protonmail.com;44, Rue Saint-Michel;69340;Francheville;13/06/2023;26/06/2023;29/06/2023;;"";;;;
+320;Sanchez;"0795748511";sanchez@outlook.com;36, Boulevard des Résistants;69290;Craponne;14/06/2023;23/06/2023;27/06/2023;Sanchez;"0795748511";36, Boulevard des Résistants;69290;Craponne;28/06/2023
+321;Thomas;"0771670823";thomas@hotmail.com;24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;14/06/2023;23/06/2023;29/06/2023;Thomas;"0771670823";24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;29/06/2023
+322;Joly;"0644846114";joly@protonmail.com;14, Avenue de Wagram;69580;Sathonay-Village;14/06/2023;23/06/2023;29/06/2023;Rivière;"0672516067";32, Avenue de la Motte-Picquet;69340;Francheville;29/06/2023
+323;Chanteux;"0653511894";chanteux@sfr.fr;10, Rue Sainte-Anne;69300;Caluire-et-Cuire;14/06/2023;28/06/2023;29/06/2023;Olivier;"0652790453";50, Rue des Colibris;69730;Genay;29/06/2023
+324;Michaud;"0636732048";michaud@free.fr;49, Rue des Pâquerettes;69890;La Tour-de-Salvagny;15/06/2023;15/06/2023;21/06/2023;Guilbert;"0619409883";39, Rue des Bois;69008;Lyon 8eme;23/06/2023
+325;Restaurant Artisan des Saveurs;"0694021431";artisan_des_saveurs@bbox.fr;20, Boulevard des Allobroges;69330;Meyzieu;15/06/2023;15/06/2023;26/06/2023;;"";;;;
+326;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;15/06/2023;23/06/2023;29/06/2023;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;29/06/2023
+327;Boutin;"0641072522";boutin@orange.fr;13, Rue des Hirondelles;69004;Lyon 4eme;15/06/2023;23/06/2023;29/06/2023;Boutin;"0641072522";13, Rue des Hirondelles;69004;Lyon 4eme;29/06/2023
+328;Rivière;"0672516067";rivière@protonmail.com;32, Avenue de la Motte-Picquet;69340;Francheville;15/06/2023;28/06/2023;29/06/2023;Rochet;"0669381286";1, Rue Saint-Sauveur;69003;Lyon 3eme;29/06/2023
+329;Durand;"0796145775";durand@orange.fr;40, Rue des Chênes;69580;Sathonay-Village;16/06/2023;20/06/2023;29/06/2023;Langlois;"0745199639";30, Rue du Château;69280;Marcy-l'Étoile;29/06/2023
+330;Gauthier;"0696977450";gauthier@laposte.net;44, Boulevard de l'Yser;69390;Vernaison;16/06/2023;28/06/2023;29/06/2023;Courtois;"0794777965";48, Avenue de Clermont;69570;Dardilly;29/06/2023
+331;Barbot;"0693879448";barbot@gmail.com;43, Avenue de Lowendal;69009;Lyon 9eme;16/06/2023;28/06/2023;29/06/2023;Barbot;"0693879448";43, Avenue de Lowendal;69009;Lyon 9eme;29/06/2023
+332;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;16/06/2023;28/06/2023;29/06/2023;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;29/06/2023
+333;Brochet;"0768399605";brochet@sfr.fr;2, Rue Saint-Martin;69350;La Mulatière;19/06/2023;19/06/2023;27/06/2023;Brochet;"0768399605";2, Rue Saint-Martin;69350;La Mulatière;28/06/2023
+334;Laurent;"0795980616";laurent@hotmail.com;32, Rue Sainte-Catherine;69004;Lyon 4eme;19/06/2023;19/06/2023;28/06/2023;Laurent;"0795980616";32, Rue Sainte-Catherine;69004;Lyon 4eme;28/06/2023
+335;Gauthier;"0696977450";gauthier@laposte.net;44, Boulevard de l'Yser;69390;Vernaison;19/06/2023;21/06/2023;27/06/2023;Aubry;"0755210517";7, Rue de la Justice;69310;Oullins-Pierre-Bénite;29/06/2023
+336;Guitton;"0788433940";guitton@laposte.net;50, Boulevard des Gaulois;69330;Meyzieu;19/06/2023;28/06/2023;29/06/2023;;"";;;;
+337;Guilbert;"0619409883";guilbert@laposte.net;39, Rue des Bois;69008;Lyon 8eme;19/06/2023;28/06/2023;29/06/2023;Guilbert;"0619409883";39, Rue des Bois;69008;Lyon 8eme;29/06/2023
+338;Vallée;"0620818268";vallée@protonmail.com;38, Rue des Instituteurs;69360;Solaize;20/06/2023;20/06/2023;23/06/2023;Vallée;"0620818268";38, Rue des Instituteurs;69360;Solaize;23/06/2023
+339;Rogers;"0642236192";rogers@bbox.fr;29, Rue Saint-Sulpice;69390;Vernaison;20/06/2023;21/06/2023;28/06/2023;Laurent;"0795980616";32, Rue Sainte-Catherine;69004;Lyon 4eme;29/06/2023
+340;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;20/06/2023;23/06/2023;29/06/2023;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;29/06/2023
+341;Boutin;"0641072522";boutin@orange.fr;13, Rue des Hirondelles;69004;Lyon 4eme;20/06/2023;23/06/2023;29/06/2023;Breton;"0681031092";4, Rue de la Solidarité;69007;Lyon 7eme;29/06/2023
+342;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;20/06/2023;23/06/2023;29/06/2023;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;29/06/2023
+343;Breton;"0681031092";breton@gmail.com;4, Rue de la Solidarité;69007;Lyon 7eme;21/06/2023;23/06/2023;29/06/2023;Schneider;"0668040251";32, Rue du Port;69003;Lyon 3eme;29/06/2023
+344;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;21/06/2023;26/06/2023;29/06/2023;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;29/06/2023
+345;Joly;"0644846114";joly@protonmail.com;14, Avenue de Wagram;69580;Sathonay-Village;21/06/2023;27/06/2023;29/06/2023;Joly;"0644846114";14, Avenue de Wagram;69580;Sathonay-Village;29/06/2023
+346;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;21/06/2023;28/06/2023;29/06/2023;;"";;;;
+347;Restaurant Table Enchantée;"0720276574";table_enchantée@orange.fr;45, Rue Saint-Jacques;69270;Fontaines-sur-Saône;22/06/2023;26/06/2023;29/06/2023;;"";;;;
+348;Vidal;"0752001737";vidal@orange.fr;46, Rue Saint-Ouen;69009;Lyon 9eme;22/06/2023;28/06/2023;29/06/2023;Charron;"0772051520";20, Boulevard des Alpes;69520;Grigny-sur-Rhône;29/06/2023
+349;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;23/06/2023;27/06/2023;29/06/2023;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;29/06/2023
+350;Guichard;"0773471827";guichard@bbox.fr;17, Boulevard Gambetta;69500;Bron;23/06/2023;28/06/2023;29/06/2023;;"";;;;
+351;Restaurant Saveurs Italiennes;"0615865995";saveurs_italiennes@orange.fr;40, Boulevard du Général de Gaulle;69150;Décines-Charpieu;23/06/2023;28/06/2023;29/06/2023;;"";;;;
+352;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;23/06/2023;28/06/2023;29/06/2023;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/06/2023
+353;Leblanc;"0711308496";leblanc@orange.fr;50, Avenue du Général Leclerc;69390;Vernaison;23/06/2023;28/06/2023;29/06/2023;Leblanc;"0711308496";50, Avenue du Général Leclerc;69390;Vernaison;29/06/2023
+354;Bouvier;"0673496436";bouvier@sfr.fr;40, Boulevard de la République;69003;Lyon 3eme;26/06/2023;28/06/2023;29/06/2023;Debord;"0724559153";36, Rue de la Fraternité;69380;Lissieu;29/06/2023
+355;Gautier;"0687778853";gautier@icloud.com;3, Rue de l'Égalité;69230;Saint-Genis-Laval;26/06/2023;28/06/2023;29/06/2023;Charron;"0772051520";20, Boulevard des Alpes;69520;Grigny-sur-Rhône;29/06/2023
+356;Bois;"0729172337";bois@hotmail.com;24, Rue des Héros;69002;Lyon 2eme;26/06/2023;28/06/2023;29/06/2023;Bois;"0729172337";24, Rue des Héros;69002;Lyon 2eme;29/06/2023
+357;Petit;"0688609527";petit@hotmail.com;12, Boulevard de la Gare;69680;Chassieu;03/09/2024;13/09/2024;26/09/2024;Petit;"0688609527";12, Boulevard de la Gare;69680;Chassieu;26/09/2024
+358;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;04/09/2024;;;;"";;;;
+359;Montel;"0624769746";montel@free.fr;46, Rue du Stade;69700;Givors;04/09/2024;11/09/2024;20/09/2024;Michaud;"0636732048";49, Rue des Pâquerettes;69890;La Tour-de-Salvagny;23/09/2024
+360;Renard;"0790893058";renard@protonmail.com;16, Rue de la Chapelle;69003;Lyon 3eme;05/09/2024;06/09/2024;20/09/2024;Gilbert;"0723974406";34, Rue du Commerce;69500;Bron;20/09/2024
+361;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;06/09/2024;06/09/2024;09/09/2024;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;09/09/2024
+362;Garnier;"0790892437";garnier@laposte.net;1, Rue de l'Industrie;69730;Genay;09/09/2024;09/09/2024;19/09/2024;Descamps;"0766585806";27, Boulevard des Allobroges;69300;Caluire-et-Cuire;24/09/2024
+363;Rousseau;"0662474575";rousseau@sfr.fr;2, Rue Saint-Louis;69370;Saint-Didier-au-Mont-d'Or;10/09/2024;16/09/2024;17/09/2024;;"";;;;
+364;Renaud;"0658743912";renaud@outlook.com;37, Rue de la Convention;69570;Dardilly;10/09/2024;19/09/2024;25/09/2024;Renaud;"0658743912";37, Rue de la Convention;69570;Dardilly;27/09/2024
+365;Duval;"0659520096";duval@bbox.fr;50, Boulevard des Italiens;69390;Vernaison;12/09/2024;17/09/2024;26/09/2024;Masson;"0641892925";50, Avenue de Nantes;69270;Fontaines-sur-Saône;26/09/2024
+366;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;12/09/2024;25/09/2024;30/09/2024;;"";;;;
+367;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;16/09/2024;17/09/2024;30/09/2024;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;02/10/2024
+368;Richard;"0635337022";richard@gmail.com;34, Rue Saint-Antoine;69250;Neuville-sur-Saône;16/09/2024;24/09/2024;25/09/2024;;"";;;;
+369;Gros;"0730578978";gros@outlook.com;46, Boulevard des Gaulois;69160;Tassin-la-Demi-Lune;17/09/2024;17/09/2024;30/09/2024;Gros;"0730578978";46, Boulevard des Gaulois;69160;Tassin-la-Demi-Lune;30/09/2024
+370;Garnier;"0790892437";garnier@laposte.net;1, Rue de l'Industrie;69730;Genay;17/09/2024;24/09/2024;03/10/2024;Garnier;"0790892437";1, Rue de l'Industrie;69730;Genay;03/10/2024
+371;Laurent;"0795980616";laurent@hotmail.com;32, Rue Sainte-Catherine;69004;Lyon 4eme;17/09/2024;26/09/2024;04/10/2024;;"";;;;
+372;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;17/09/2024;27/09/2024;30/09/2024;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;03/10/2024
+373;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;18/09/2024;25/09/2024;09/10/2024;Olivier;"0652790453";50, Rue des Colibris;69730;Genay;09/10/2024
+374;Thomson;"0642260931";thomson@gmail.com;5, Boulevard des Pyrénées;69300;Caluire-et-Cuire;25/09/2024;08/10/2024;09/10/2024;Thomson;"0642260931";5, Boulevard des Pyrénées;69300;Caluire-et-Cuire;09/10/2024
+375;Restaurant Artisan des Saveurs;"0694021431";artisan_des_saveurs@bbox.fr;20, Boulevard des Allobroges;69330;Meyzieu;26/09/2024;07/10/2024;16/10/2024;;"";;;;
+376;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;30/09/2024;30/09/2024;10/10/2024;;"";;;;
+377;Mercier;"0779581408";mercier@hotmail.com;19, Boulevard de la Paix;69130;Écully;30/09/2024;01/10/2024;04/10/2024;Guillemette;"0650129632";7, Boulevard des Fusillés;69960;Corbas;07/10/2024
+378;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;30/09/2024;03/10/2024;17/10/2024;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;22/10/2024
+379;Rochet;"0669381286";rochet@laposte.net;1, Rue Saint-Sauveur;69003;Lyon 3eme;02/10/2024;04/10/2024;15/10/2024;Guitton;"0788433940";50, Boulevard des Gaulois;69330;Meyzieu;16/10/2024
+380;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;03/10/2024;03/10/2024;07/10/2024;;"";;;;
+381;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;07/10/2024;08/10/2024;17/10/2024;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;22/10/2024
+382;Petit;"0688609527";petit@hotmail.com;12, Boulevard de la Gare;69680;Chassieu;07/10/2024;11/10/2024;16/10/2024;Castel;"0654645684";12, Rue du Commerce;69003;Lyon 3eme;17/10/2024
+383;Boutique Tendance et Cie;"0766092349";tendance_et_cie@free.fr;4, Boulevard de Verdun;69280;Marcy-l'Étoile;07/10/2024;18/10/2024;25/10/2024;Boutique Tendance et Cie;"0766092349";4, Boulevard de Verdun;69280;Marcy-l'Étoile;25/10/2024
+384;Leblanc;"0711308496";leblanc@orange.fr;50, Avenue du Général Leclerc;69390;Vernaison;07/10/2024;21/10/2024;05/11/2024;Leblanc;"0711308496";50, Avenue du Général Leclerc;69390;Vernaison;06/11/2024
+385;Renaud;"0658743912";renaud@outlook.com;37, Rue de la Convention;69570;Dardilly;10/10/2024;14/10/2024;15/10/2024;Olivier;"0652790453";50, Rue des Colibris;69730;Genay;15/10/2024
+386;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;10/10/2024;18/10/2024;30/10/2024;;"";;;;
+387;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;10/10/2024;21/10/2024;24/10/2024;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;25/10/2024
+388;Boutin;"0641072522";boutin@orange.fr;13, Rue des Hirondelles;69004;Lyon 4eme;11/10/2024;16/10/2024;22/10/2024;Boutin;"0641072522";13, Rue des Hirondelles;69004;Lyon 4eme;22/10/2024
+389;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;14/10/2024;14/10/2024;22/10/2024;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;23/10/2024
+390;Ziegler;"0792431240";ziegler@sfr.fr;21, Avenue de Lowendal;69003;Lyon 3eme;14/10/2024;17/10/2024;18/10/2024;Vallée;"0620818268";38, Rue des Instituteurs;69360;Solaize;23/10/2024
+391;Mathieu;"0729520448";mathieu@icloud.com;32, Avenue de Lowendal;69680;Chassieu;15/10/2024;21/10/2024;30/10/2024;Mathieu;"0729520448";32, Avenue de Lowendal;69680;Chassieu;31/10/2024
+392;Restaurant Table Enchantée;"0720276574";table_enchantée@orange.fr;45, Rue Saint-Jacques;69270;Fontaines-sur-Saône;15/10/2024;22/10/2024;23/10/2024;;"";;;;
+393;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;15/10/2024;25/10/2024;06/11/2024;;"";;;;
+394;Restaurant Comptoir du Terroir;"0616248133";comptoir_du_terroir@protonmail.com;44, Rue Saint-Michel;69340;Francheville;15/10/2024;29/10/2024;04/11/2024;;"";;;;
+395;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;17/10/2024;18/10/2024;21/10/2024;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;24/10/2024
+396;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;17/10/2024;24/10/2024;28/10/2024;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;30/10/2024
+397;Guerin;"0756352637";guerin@icloud.com;15, Rue de la Solidarité;69001;Lyon 1er;17/10/2024;28/10/2024;06/11/2024;Guerin;"0756352637";15, Rue de la Solidarité;69001;Lyon 1er;12/11/2024
+398;Rogers;"0642236192";rogers@bbox.fr;29, Rue Saint-Sulpice;69390;Vernaison;21/10/2024;21/10/2024;25/10/2024;Blanc;"0692609392";38, Avenue de Nice;69500;Bron;28/10/2024
+399;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;22/10/2024;;;;"";;;;
+400;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;22/10/2024;25/10/2024;30/10/2024;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;30/10/2024
+401;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;22/10/2024;06/11/2024;18/11/2024;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;21/11/2024
+402;Mallet;"0764950337";mallet@outlook.com;49, Avenue de la Motte-Picquet;69200;Vénissieux;23/10/2024;06/11/2024;07/11/2024;Mallet;"0764950337";49, Avenue de la Motte-Picquet;69200;Vénissieux;12/11/2024
+403;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;25/10/2024;31/10/2024;18/11/2024;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;18/11/2024
+404;Serrano;"0746767520";serrano@bbox.fr;42, Boulevard de Verdun;69150;Décines-Charpieu;28/10/2024;08/11/2024;22/11/2024;Serrano;"0746767520";42, Boulevard de Verdun;69150;Décines-Charpieu;26/11/2024
+405;Delarue;"0651458072";delarue@protonmail.com;3, Rue des Métiers;69320;Feyzin;30/10/2024;31/10/2024;13/11/2024;Martin;"0635242367";49, Rue du Marché;69570;Dardilly;15/11/2024
+406;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;30/10/2024;13/11/2024;27/11/2024;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;29/11/2024
+407;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;30/10/2024;15/11/2024;22/11/2024;Boutique Atelier de Luxe;"0665727410";20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;22/11/2024
+408;Mottet;"0672745223";mottet@protonmail.com;20, Rue de la Solidarité;69160;Tassin-la-Demi-Lune;31/10/2024;05/11/2024;19/11/2024;Mottet;"0672745223";20, Rue de la Solidarité;69160;Tassin-la-Demi-Lune;20/11/2024
+409;Joly;"0644846114";joly@protonmail.com;14, Avenue de Wagram;69580;Sathonay-Village;31/10/2024;07/11/2024;18/11/2024;;"";;;;
+410;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;04/11/2024;19/11/2024;22/11/2024;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;25/11/2024
+411;Roussel;"0612584833";roussel@laposte.net;36, Avenue de Saxe;69520;Grigny-sur-Rhône;05/11/2024;06/11/2024;18/11/2024;;"";;;;
+412;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;05/11/2024;15/11/2024;20/11/2024;;"";;;;
+413;Picard;"0735607975";picard@outlook.com;25, Rue Saint-Honoré;69890;La Tour-de-Salvagny;07/11/2024;22/11/2024;28/11/2024;;"";;;;
+414;Olivier;"0652790453";olivier@hotmail.com;50, Rue des Colibris;69730;Genay;08/11/2024;20/11/2024;27/11/2024;;"";;;;
+415;Deschamps;"0696182788";deschamps@icloud.com;35, Rue de la Solidarité;69450;Saint-Cyr-au-Mont-d'Or;08/11/2024;22/11/2024;29/11/2024;Deschamps;"0696182788";35, Rue de la Solidarité;69450;Saint-Cyr-au-Mont-d'Or;29/11/2024
+416;Jacquet;"0796799393";jacquet@laposte.net;42, Boulevard des Espagnols;69290;Craponne;12/11/2024;12/11/2024;14/11/2024;Masson;"0641892925";50, Avenue de Nantes;69270;Fontaines-sur-Saône;14/11/2024
+417;Pires;"0652306693";pires@bbox.fr;42, Boulevard des Vosges;69780;Mions;14/11/2024;18/11/2024;28/11/2024;Rey;"0742332157";5, Boulevard de la Gare;69260;Charbonnières-les-Bains;29/11/2024
+418;Rochet;"0669381286";rochet@laposte.net;1, Rue Saint-Sauveur;69003;Lyon 3eme;15/11/2024;27/11/2024;29/11/2024;;"";;;;
+419;Restaurant Comptoir du Terroir;"0616248133";comptoir_du_terroir@protonmail.com;44, Rue Saint-Michel;69340;Francheville;19/11/2024;21/11/2024;22/11/2024;;"";;;;
+420;Picard;"0735607975";picard@outlook.com;25, Rue Saint-Honoré;69890;La Tour-de-Salvagny;20/11/2024;28/11/2024;29/11/2024;Picard;"0735607975";25, Rue Saint-Honoré;69890;La Tour-de-Salvagny;29/11/2024
+421;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;21/11/2024;27/11/2024;29/11/2024;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;29/11/2024
+422;Boutin;"0641072522";boutin@orange.fr;13, Rue des Hirondelles;69004;Lyon 4eme;21/11/2024;28/11/2024;29/11/2024;;"";;;;
+423;Chanteux;"0653511894";chanteux@sfr.fr;10, Rue Sainte-Anne;69300;Caluire-et-Cuire;21/11/2024;28/11/2024;29/11/2024;Chanteux;"0653511894";10, Rue Sainte-Anne;69300;Caluire-et-Cuire;29/11/2024
+424;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;21/11/2024;28/11/2024;29/11/2024;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;29/11/2024
+425;Gilbert;"0723974406";gilbert@sfr.fr;34, Rue du Commerce;69500;Bron;25/11/2024;28/11/2024;29/11/2024;;"";;;;
+426;Renault;"0785024707";renault@protonmail.com;34, Avenue de Dijon;69580;Sathonay-Village;25/11/2024;28/11/2024;29/11/2024;Sanchez;"0795748511";36, Boulevard des Résistants;69290;Craponne;29/11/2024
+427;Renault;"0785024707";renault@protonmail.com;34, Avenue de Dijon;69580;Sathonay-Village;26/11/2024;26/11/2024;28/11/2024;Delarue;"0651458072";3, Rue des Métiers;69320;Feyzin;29/11/2024
+428;David;"0677688417";david@hotmail.com;1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;26/11/2024;28/11/2024;29/11/2024;David;"0677688417";1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;29/11/2024
+429;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;02/06/2025;05/06/2025;19/06/2025;;"";;;;
+430;Mathieu;"0729520448";mathieu@icloud.com;32, Avenue de Lowendal;69680;Chassieu;02/06/2025;06/06/2025;20/06/2025;Lemoine;"0715303722";17, Boulevard des Allobroges;69960;Corbas;20/06/2025
+431;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;02/06/2025;17/06/2025;01/07/2025;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;04/07/2025
+432;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;03/06/2025;03/06/2025;18/06/2025;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;19/06/2025
+433;Benedetti;"0781632325";benedetti@sfr.fr;14, Boulevard des Résistants;69280;Marcy-l'Étoile;03/06/2025;12/06/2025;16/06/2025;Debord;"0724559153";36, Rue de la Fraternité;69380;Lissieu;16/06/2025
+434;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;04/06/2025;13/06/2025;18/06/2025;;"";;;;
+435;Gautier;"0687778853";gautier@icloud.com;3, Rue de l'Égalité;69230;Saint-Genis-Laval;05/06/2025;10/06/2025;16/06/2025;;"";;;;
+436;Guitton;"0788433940";guitton@laposte.net;50, Boulevard des Gaulois;69330;Meyzieu;06/06/2025;13/06/2025;16/06/2025;Guitton;"0788433940";50, Boulevard des Gaulois;69330;Meyzieu;19/06/2025
+437;Rey;"0742332157";rey@laposte.net;5, Boulevard de la Gare;69260;Charbonnières-les-Bains;06/06/2025;17/06/2025;25/06/2025;Rey;"0742332157";5, Boulevard de la Gare;69260;Charbonnières-les-Bains;30/06/2025
+438;Montel;"0624769746";montel@free.fr;46, Rue du Stade;69700;Givors;10/06/2025;10/06/2025;16/06/2025;Mallet;"0764950337";49, Avenue de la Motte-Picquet;69200;Vénissieux;17/06/2025
+439;Montel;"0624769746";montel@free.fr;46, Rue du Stade;69700;Givors;10/06/2025;10/06/2025;23/06/2025;Montel;"0624769746";46, Rue du Stade;69700;Givors;24/06/2025
+440;Restaurant Festin Royal;"0677778735";festin_royal@laposte.net;7, Rue de la Justice;69004;Lyon 4eme;10/06/2025;23/06/2025;01/07/2025;;"";;;;
+441;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;11/06/2025;24/06/2025;27/06/2025;Boutique Éclat et Élégance;"0735456380";30, Boulevard des Corses;69006;Lyon 6eme;27/06/2025
+442;Boutique Comptoir de Mode;"0660162941";comptoir_de_mode@orange.fr;6, Rue du Château;69890;La Tour-de-Salvagny;11/06/2025;25/06/2025;04/07/2025;Boutique Comptoir de Mode;"0660162941";6, Rue du Château;69890;La Tour-de-Salvagny;08/07/2025
+443;François;"0658732580";françois@protonmail.com;11, Rue des Coquelicots;69330;Meyzieu;12/06/2025;13/06/2025;27/06/2025;Roux;"0650504324";11, Avenue de Paris;69730;Genay;27/06/2025
+444;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;12/06/2025;17/06/2025;26/06/2025;;"";;;;
+445;Boutique Perle Rare;"0668612082";perle_rare@orange.fr;11, Rue des Canards;69002;Lyon 2eme;13/06/2025;26/06/2025;02/07/2025;Boutique Perle Rare;"0668612082";11, Rue des Canards;69002;Lyon 2eme;04/07/2025
+446;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;16/06/2025;26/06/2025;03/07/2025;;"";;;;
+447;Boutique Coin Précieux;"0785431549";coin_précieux@yahoo.com;4, Avenue de Friedland;69003;Lyon 3eme;17/06/2025;20/06/2025;30/06/2025;Boutique Coin Précieux;"0785431549";4, Avenue de Friedland;69003;Lyon 3eme;02/07/2025
+448;Rousseau;"0662474575";rousseau@sfr.fr;2, Rue Saint-Louis;69370;Saint-Didier-au-Mont-d'Or;17/06/2025;27/06/2025;02/07/2025;Rousseau;"0662474575";2, Rue Saint-Louis;69370;Saint-Didier-au-Mont-d'Or;07/07/2025
+449;Martin;"0635242367";martin@outlook.com;49, Rue du Marché;69570;Dardilly;18/06/2025;18/06/2025;23/06/2025;Robert;"0774537467";21, Rue des Bois;69730;Genay;25/06/2025
+450;David;"0677688417";david@hotmail.com;1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;18/06/2025;30/06/2025;04/07/2025;David;"0677688417";1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;09/07/2025
+451;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;20/06/2025;04/07/2025;10/07/2025;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;10/07/2025
+452;Rousseau;"0662474575";rousseau@sfr.fr;2, Rue Saint-Louis;69370;Saint-Didier-au-Mont-d'Or;24/06/2025;24/06/2025;01/07/2025;Guichard;"0773471827";17, Boulevard Gambetta;69500;Bron;02/07/2025
+453;Moulin;"0676624893";moulin@orange.fr;32, Rue Saint-Lazare;69007;Lyon 7eme;24/06/2025;25/06/2025;03/07/2025;Moulin;"0676624893";32, Rue Saint-Lazare;69007;Lyon 7eme;08/07/2025
+454;Fournier;"0732561177";fournier@orange.fr;34, Avenue de Wagram;69360;Solaize;24/06/2025;01/07/2025;09/07/2025;Masson;"0641892925";50, Avenue de Nantes;69270;Fontaines-sur-Saône;15/07/2025
+455;Courtois;"0794777965";courtois@free.fr;48, Avenue de Clermont;69570;Dardilly;24/06/2025;01/07/2025;16/07/2025;;"";;;;
+456;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;24/06/2025;02/07/2025;07/07/2025;;"";;;;
+457;Marty;"0637773108";marty@laposte.net;24, Rue des Cigognes;69320;Feyzin;24/06/2025;08/07/2025;10/07/2025;David;"0677688417";1, Rue des Bois;69110;Sainte-Foy-lès-Lyon;15/07/2025
+458;Bernard;"0798767626";bernard@protonmail.com;49, Rue des Pâquerettes;69330;Meyzieu;25/06/2025;25/06/2025;03/07/2025;Chanteux;"0653511894";10, Rue Sainte-Anne;69300;Caluire-et-Cuire;03/07/2025
+459;Rey;"0742332157";rey@laposte.net;5, Boulevard de la Gare;69260;Charbonnières-les-Bains;25/06/2025;09/07/2025;22/07/2025;Bertin;"0773998194";31, Avenue de la Motte-Picquet;69270;Fontaines-sur-Saône;24/07/2025
+460;Restaurant Taverne du Palais;"0741911123";taverne_du_palais@sfr.fr;49, Rue du Général de Gaulle;69320;Feyzin;27/06/2025;02/07/2025;16/07/2025;;"";;;;
+461;Deleuze;"0637130330";deleuze@outlook.com;12, Rue Saint-Georges;69360;Solaize;30/06/2025;01/07/2025;03/07/2025;Deleuze;"0637130330";12, Rue Saint-Georges;69360;Solaize;07/07/2025
+462;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;30/06/2025;03/07/2025;04/07/2025;;"";;;;
+463;Brun;"0612871619";brun@free.fr;50, Rue du Puits;69350;La Mulatière;30/06/2025;10/07/2025;17/07/2025;Brun;"0612871619";50, Rue du Puits;69350;La Mulatière;22/07/2025
+464;Boutique Esprit Bohème;"0719312161";esprit_bohème@icloud.com;8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;01/07/2025;01/07/2025;09/07/2025;Boutique Esprit Bohème;"0719312161";8, Rue des Instituteurs;69650;Saint-Germain-au-Mont-d'Or;15/07/2025
+465;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;01/07/2025;02/07/2025;07/07/2025;;"";;;;
+466;Boutique Atelier de Luxe;"0665727410";atelier_de_luxe@free.fr;20, Rue Sainte-Thérèse;69300;Caluire-et-Cuire;01/07/2025;04/07/2025;07/07/2025;;"";;;;
+467;Petit;"0688609527";petit@hotmail.com;12, Boulevard de la Gare;69680;Chassieu;01/07/2025;15/07/2025;16/07/2025;Montel;"0624769746";46, Rue du Stade;69700;Givors;16/07/2025
+468;Guerin;"0756352637";guerin@icloud.com;15, Rue de la Solidarité;69001;Lyon 1er;03/07/2025;17/07/2025;23/07/2025;Guerin;"0756352637";15, Rue de la Solidarité;69001;Lyon 1er;28/07/2025
+469;Rochet;"0669381286";rochet@laposte.net;1, Rue Saint-Sauveur;69003;Lyon 3eme;03/07/2025;18/07/2025;25/07/2025;Durand;"0796145775";40, Rue des Chênes;69580;Sathonay-Village;30/07/2025
+470;Boutique Instant Précieux;"0613845064";instant_précieux@free.fr;48, Rue de la Chapelle;69002;Lyon 2eme;04/07/2025;04/07/2025;18/07/2025;Boutique Instant Précieux;"0613845064";48, Rue de la Chapelle;69002;Lyon 2eme;21/07/2025
+471;Simon;"0785242019";simon@gmail.com;6, Rue Saint-Ouen;69260;Charbonnières-les-Bains;04/07/2025;16/07/2025;29/07/2025;Simon;"0785242019";6, Rue Saint-Ouen;69260;Charbonnières-les-Bains;29/07/2025
+472;Gilbert;"0723974406";gilbert@sfr.fr;34, Rue du Commerce;69500;Bron;07/07/2025;11/07/2025;18/07/2025;Guilbert;"0619409883";39, Rue des Bois;69008;Lyon 8eme;21/07/2025
+473;Jacquet;"0796799393";jacquet@laposte.net;42, Boulevard des Espagnols;69290;Craponne;08/07/2025;08/07/2025;10/07/2025;;"";;;;
+474;Debord;"0724559153";debord@orange.fr;36, Rue de la Fraternité;69380;Lissieu;08/07/2025;15/07/2025;21/07/2025;Thomas;"0771670823";24, Rue Sainte-Thérèse;69370;Saint-Didier-au-Mont-d'Or;24/07/2025
+475;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;08/07/2025;22/07/2025;30/07/2025;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;31/07/2025
+476;Boulanger;"0722016906";boulanger@free.fr;46, Rue des Écoles;69700;Givors;09/07/2025;18/07/2025;22/07/2025;Boulanger;"0722016906";46, Rue des Écoles;69700;Givors;23/07/2025
+477;Aubry;"0755210517";aubry@orange.fr;7, Rue de la Justice;69310;Oullins-Pierre-Bénite;09/07/2025;18/07/2025;29/07/2025;;"";;;;
+478;Brun;"0612871619";brun@free.fr;50, Rue du Puits;69350;La Mulatière;09/07/2025;22/07/2025;23/07/2025;Rey;"0742332157";5, Boulevard de la Gare;69260;Charbonnières-les-Bains;28/07/2025
+479;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;09/07/2025;22/07/2025;31/07/2025;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;31/07/2025
+480;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;11/07/2025;15/07/2025;24/07/2025;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;29/07/2025
+481;Delarue;"0651458072";delarue@protonmail.com;3, Rue des Métiers;69320;Feyzin;15/07/2025;17/07/2025;31/07/2025;Brun;"0612871619";50, Rue du Puits;69350;La Mulatière;31/07/2025
+482;Blanc;"0692609392";blanc@protonmail.com;38, Avenue de Nice;69500;Bron;15/07/2025;24/07/2025;31/07/2025;Langlois;"0745199639";30, Rue du Château;69280;Marcy-l'Étoile;31/07/2025
+483;Restaurant Esprit du Sud;"0620605888";esprit_du_sud@sfr.fr;15, Avenue de Bordeaux;69570;Dardilly;16/07/2025;18/07/2025;25/07/2025;;"";;;;
+484;Boutique Bazar et Création;"0759759346";bazar_et_création@laposte.net;7, Rue du Pont;69760;Limonest;16/07/2025;22/07/2025;23/07/2025;Boutique Bazar et Création;"0759759346";7, Rue du Pont;69760;Limonest;25/07/2025
+485;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;16/07/2025;24/07/2025;29/07/2025;Boutique Fabrique de Rêves;"0648624826";25, Rue de l'Église;69007;Lyon 7eme;29/07/2025
+486;Serrano;"0746767520";serrano@bbox.fr;42, Boulevard de Verdun;69150;Décines-Charpieu;16/07/2025;28/07/2025;31/07/2025;Serrano;"0746767520";42, Boulevard de Verdun;69150;Décines-Charpieu;31/07/2025
+487;Deleuze;"0637130330";deleuze@outlook.com;12, Rue Saint-Georges;69360;Solaize;17/07/2025;17/07/2025;24/07/2025;Deleuze;"0637130330";12, Rue Saint-Georges;69360;Solaize;24/07/2025
+488;Baron;"0626079280";baron@icloud.com;28, Rue du Quai;69004;Lyon 4eme;17/07/2025;29/07/2025;31/07/2025;Baron;"0626079280";28, Rue du Quai;69004;Lyon 4eme;31/07/2025
+489;Dubois;"0692607439";dubois@bbox.fr;2, Rue des Résistants;69500;Bron;18/07/2025;24/07/2025;25/07/2025;Gilbert;"0723974406";34, Rue du Commerce;69500;Bron;28/07/2025
+490;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;21/07/2025;24/07/2025;31/07/2025;;"";;;;
+491;Boutique Fabrique de Rêves;"0648624826";fabrique_de_rêves@icloud.com;25, Rue de l'Église;69007;Lyon 7eme;21/07/2025;30/07/2025;31/07/2025;;"";;;;
+492;Boutique Magasin Secret;"0755521343";magasin_secret@gmail.com;28, Rue du Marché;69570;Dardilly;22/07/2025;22/07/2025;30/07/2025;Boutique Magasin Secret;"0755521343";28, Rue du Marché;69570;Dardilly;31/07/2025
+493;Castel;"0654645684";castel@yahoo.com;12, Rue du Commerce;69003;Lyon 3eme;23/07/2025;30/07/2025;31/07/2025;Castel;"0654645684";12, Rue du Commerce;69003;Lyon 3eme;31/07/2025
+494;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;25/07/2025;30/07/2025;31/07/2025;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;31/07/2025
+495;Mottet;"0672745223";mottet@protonmail.com;20, Rue de la Solidarité;69160;Tassin-la-Demi-Lune;28/07/2025;30/07/2025;31/07/2025;;"";;;;
+496;Barbot;"0693879448";barbot@gmail.com;43, Avenue de Lowendal;69009;Lyon 9eme;28/07/2025;30/07/2025;31/07/2025;Barbot;"0693879448";43, Avenue de Lowendal;69009;Lyon 9eme;31/07/2025
+497;Hernandez;"0630992042";hernandez@outlook.com;15, Boulevard des Allobroges;69650;Saint-Germain-au-Mont-d'Or;28/07/2025;30/07/2025;31/07/2025;Roux;"0650504324";11, Avenue de Paris;69730;Genay;31/07/2025
+498;Boutique Éclat et Élégance;"0735456380";éclat_et_élégance@free.fr;30, Boulevard des Corses;69006;Lyon 6eme;29/07/2025;30/07/2025;31/07/2025;;"";;;;
+499;Boutique Parfum Secret;"0662111918";parfum_secret@orange.fr;31, Boulevard du Maréchal Koenig;69340;Francheville;29/07/2025;30/07/2025;31/07/2025;Boutique Parfum Secret;"0662111918";31, Boulevard du Maréchal Koenig;69340;Francheville;31/07/2025
+500;Deschamps;"0696182788";deschamps@icloud.com;35, Rue de la Solidarité;69450;Saint-Cyr-au-Mont-d'Or;29/07/2025;30/07/2025;31/07/2025;Deschamps;"0696182788";35, Rue de la Solidarité;69450;Saint-Cyr-au-Mont-d'Or;31/07/2025
